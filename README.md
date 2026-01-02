@@ -93,15 +93,6 @@ R2_SECRET_ACCESS_KEY=your_secret_key_here
 R2_BUCKET_NAME=your_bucket_name_here
 ```
 
-**Contoh:**
-
-```env
-R2_ACCOUNT_ID=3343378ba5e4177dae5c86a60ca65b7e
-R2_ACCESS_KEY_ID=a8d435482db0ee194aa4965ba43c4c63
-R2_SECRET_ACCESS_KEY=67407f7e4a2753598a81158dcc975642d510db57a031039a5e1642f3661deed6
-R2_BUCKET_NAME=experiment
-```
-
 ## 🎯 Cara Menggunakan
 
 ### Jalankan Demo Script
